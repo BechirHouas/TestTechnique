@@ -1,0 +1,12 @@
+{
+  "name": "Test",
+  "description": "test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "4.x",
+    "formidable": "^1.0.17",
+    "fs-extra": "^1.0.0"
+  }
+}

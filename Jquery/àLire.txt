@@ -1,0 +1,2 @@
+J'ai pas bien compris ce que signifie exactement le mot"thumbs".
+Ce script analyse en detectant tous les parents des images et stocke les liens s'il y existe .

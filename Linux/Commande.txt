@@ -1,0 +1,1 @@
+du . | tail -1 | cut -f 1

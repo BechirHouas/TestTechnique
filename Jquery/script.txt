@@ -1,0 +1,2 @@
+thumbs = []
+$("img").each(function(){ parent = $(this).parent(); if (parent.is("a")) { thumbs.push(parent.attr("href")) } })

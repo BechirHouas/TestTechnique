@@ -1,0 +1,2 @@
+1-node server.js
+2-lancer localhost:3000
